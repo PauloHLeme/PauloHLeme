@@ -1,16 +1,23 @@
-### Hi there 👋
+# Olá! 😃
 
-<!--
-**PauloHLeme/PauloHLeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seja bem vindo ao meu GitHub!
 
-Here are some ideas to get you started:
+Meu nome é Paulo Henrique Leme, tenho 29 anos e estou no caminho do aprendizado de desenvolvimento de softwares.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Onde me encontrar 🔍
+
+[![Contact-me at leme.pauloh@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](leme.pauloh@gmail.com)
+[![Find-me on linkedin.com/in/paulo-henrique-leme-a862ba45/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/paulo-henrique-leme-a862ba45/)
+[![Find-me on https://www.instagram.com/pauloheleme/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pauloheleme/)
+[![Find-me on twitter.com/PauloHLeme](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+)](https://twitter.com/PauloHLeme)
+
+## Em Auto-Desenvolvimento
+
+Tendo atuado a maior porção da minha carreira profissional em varejo, com destaque na liderança de unidades de uma empresa do varejo farmacêutico, estou passando agora por uma transição de carreira, estudando incansavelmente sobre desenvolvimento e tecnologias.
+
+* 🧑‍🎓 Finalizando o **Bootcamp Impulso React Web Developer**
+
+
+![Find-me on ](https://github-readme-stats.vercel.app/api?username=Paulohleme)
