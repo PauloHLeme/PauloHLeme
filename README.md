@@ -2,7 +2,7 @@
 
 Seja bem vindo ao meu GitHub!
 
-Meu nome é Paulo Henrique Leme, tenho 29 anos e estou no caminho do aprendizado de desenvolvimento de softwares.
+Meu nome é Paulo Henrique Leme e estou no caminho do aprendizado de desenvolvimento de softwares.
 
 ## Onde me encontrar 🔍
 
@@ -16,8 +16,6 @@ Meu nome é Paulo Henrique Leme, tenho 29 anos e estou no caminho do aprendizado
 ## Em Auto-Desenvolvimento
 
 Tendo atuado a maior porção da minha carreira profissional em varejo, com destaque na liderança de unidades de uma empresa do varejo farmacêutico, estou passando agora por uma transição de carreira, estudando incansavelmente sobre desenvolvimento e tecnologias.
-
-* 🧑‍🎓 Finalizando o **Bootcamp Impulso React Web Developer**
 
 
 ![Find-me on ](https://github-readme-stats.vercel.app/api?username=Paulohleme)
