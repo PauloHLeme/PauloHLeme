@@ -26,5 +26,5 @@ Foco em resolver problemas de negócios através de dados, iniciando meus conhec
 - **Ferramentas:** Git, Jupyter
 
 ### 📫 Contato
-- [LinkedIn](https://www.linkedin.com/in/paulo-henrique-leme-a862ba45/))
+- [LinkedIn](https://www.linkedin.com/in/paulo-henrique-leme-a862ba45/)
 - [Email](mailto:leme.pauloh@gmail.com)
